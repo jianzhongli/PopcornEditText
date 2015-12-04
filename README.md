@@ -1,6 +1,7 @@
 # PopcornEditText
 
 An `EditText` that keep popping text. Requirement: `minSDK: 16`
+
 <img src="screenshots/eng.gif" width="200"> <img src="screenshots/chn.gif" width="200">
 
 ## Usage
@@ -52,6 +53,7 @@ Please dont hesitate to create an issue ticket or pull request.
 
 ## Thanks
 Inspired by [`BiuEditText`][BiuEditText] and this gif.
+
 ![](http://45.media.tumblr.com/cf210d7c444b3e4d5e5a49ebb0bf9dae/tumblr_ny0aidok9u1rc7zl1o3_250.gif)
 
 Thanks [Jawnnypoo][Jawnnypoo] and his [PhysicsLayout][PhysicsLayout].
