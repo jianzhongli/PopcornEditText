@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PopcornEditText">
+        <attr name="TTL" format="dimension" />
+        <attr name="popcorn_size" format="dimension"/>
+        <attr name="popcorn_color" format="color"/>
+        <attr name="endY" format="dimension"/>
+    </declare-styleable>
+</resources>

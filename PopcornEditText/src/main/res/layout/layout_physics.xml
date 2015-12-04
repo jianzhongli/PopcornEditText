@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.jawnnypoo.physicslayout.PhysicsRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/physics_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:physics="true"
+    app:gravityX="0"
+    app:gravityY="9.8"
+    app:bounds="true"
+    android:animateLayoutChanges="false">
+
+</com.jawnnypoo.physicslayout.PhysicsRelativeLayout>
